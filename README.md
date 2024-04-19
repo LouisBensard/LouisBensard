@@ -1,4 +1,4 @@
-- 🛩️ Founder & Lead Engineer @ Stratos (App Store: https://apple.co/3U8506K)
+- 🛩️ Founder & Lead Engineer @ Stratos (App Store link: https://apple.co/3U8506K)
 - 👨‍💻 ML/AI Engineer
 - 🤖 Aspire to help build the future of AI
 - 📱 Full-Stack iOS whiz 
