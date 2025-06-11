@@ -1,9 +1,9 @@
 # Welcome to my GitHub 👋 
 
-- 🛩️ Founder & Lead Engineer @ Stratos (App Store link: https://apple.co/3U8506K)
-- 👨‍💻 10x ML/AI Engineer
-- 🤓 Math & Linear Algebra whiz
-- 🤖 Aspire to help build the future of AI
-- 📱 Full-Stack iOS Expert 
-- ✈️ Private Pilot
-- 📫 louis.bensard@gmail.com
+- 👨‍💻 Machine Learning Engineer with a strong background in math, statistics, and AI.
+- 🔬 Specializing in Bayesian modeling, time series, and real-world ML systems
+- 🧠 Experienced in building and deploying end-to-end ML pipelines
+- 🛩️ Founder & Lead Engineer of Stratos, a data-driven aviation app
+- 📱 Full-stack iOS developer
+- ✈️ Certified private pilot
+- 📫 Contact: louis.bensard@gmail.com
