@@ -1,13 +1,10 @@
 # Louis Bensard
 
-Co-founder & CTO at [Sightline](https://www.sightlineos.com). I build AI that works.
+Co-founder & CTO at Sightline. I build AI that works in production.
 
-- Built Sightline's AI/ML vertical from scratch — deep learning forecasting, an AI recommendation layer, and the pipelines and infrastructure that run them in production
-- Ten years of applied ML before that: Bayesian modeling, time series, gradient-boosted and neural models for Fortune 500 clients
-- Founded Stratos, a "Strava for Pilots" – iOS app for general-aviation pilots with on-device ML
-- Math and CS at Sorbonne, MS Statistics at Cal State Fullerton
-- Private pilot, off-the-beaten-path traveler, unlicensed French cook
+- **Now:** built Sightline's AI/ML vertical from scratch: transformer forecasting models (PatchTST) in PyTorch across thousands of item-level series, a recommendation layer that turns forecasts into ranked, explainable actions, and the training, data and cloud infrastructure behind them.
+- **Before:** 7+ years of production ML, including Bayesian and time-series models for Fortune 500 clients at Ekimetrics and Ipsos MMA, and Stratos, a "Strava for pilots" iOS app with on-device ML.
+- **Background:** B.S. Mathematics and B.S. Computer Science (Sorbonne Université), M.S. Statistics (Cal State Fullerton).
+- **Stack:** Python, PyTorch, SQL, AWS, Docker, TypeScript.
 
-Most of my work lives in private repos.
-
-louis.bensard@gmail.com
+[louisbensard.com](https://louisbensard.com) · [LinkedIn](https://www.linkedin.com/in/louis-bensard/)
